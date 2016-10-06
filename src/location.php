@@ -26,9 +26,9 @@ class location
      */
     public function __construct($latitude, $longitude)
     {
-		if (!is_float($latitude) || !is_float($longitude)) {
-			throw new \InvalidArgumentException('coordinates must be of type float');
-		}
+        if (!is_float($latitude) || !is_float($longitude)) {
+            throw new \InvalidArgumentException('coordinates must be of type float');
+        }
 
         $this->latitude  = $latitude;
         $this->longitude = $longitude;
