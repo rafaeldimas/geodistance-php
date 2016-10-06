@@ -1,5 +1,7 @@
 # Geodistance
 
+[![Build Status](https://travis-ci.org/0x13a/geodistance-php.svg?branch=master)](https://travis-ci.org/0x13a/geodistance-php)
+
 simple & minimal geodistance php library to calculate distance among two points (latitude, longitude) using [Harvesine formula](https://www.wikiwand.com/en/Haversine_formula)
 
 ## Installation
