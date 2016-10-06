@@ -11,6 +11,7 @@ composer require 0x13a/geodistance-php
 ## Usage
 
 ```php
+<?php
 
 require_once __DIR__ . '/vendor/autoload.php';
 
