@@ -4,6 +4,7 @@
     "keywords": ["geodistance", "gps", "distance", "harvesine"],
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "diegomariani",
@@ -20,5 +21,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0"
+    },
+    "config": {
+        "bin-dir": "bin"
     }
 }
