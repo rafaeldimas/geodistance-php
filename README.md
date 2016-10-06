@@ -18,8 +18,8 @@ $new_york          = new \geodistance\location(40.7128, 74.0059);
 $los_angeles       = new \geodistance\location(34.0522, 118.2437);
 $decimal_precision = 3;
 
-echo \geodistance\kilometers($new_york, $los_angeles) . "\r\n"; // 3936
-echo \geodistance\miles($new_york, $los_angeles, $decimal_precision) . "\r\n"; // 2445.564
+echo \geodistance\kilometers($new_york, $los_angeles); // 3936
+echo \geodistance\miles($new_york, $los_angeles, $decimal_precision); // 2445.564
 echo \geodistance\yardes($new_york, $los_angeles); // 4304181
 
 ```
