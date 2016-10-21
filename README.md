@@ -29,4 +29,4 @@ echo \geodistance\yardes($new_york, $los_angeles); // 4304181
 
 ## Extra
 
-you can find the same php implementation [using functional approach](https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b)
+you can find the same php implementation here [using functional approach](https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b)
