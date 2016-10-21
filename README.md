@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/0x13a/geodistance-php.svg?branch=master)](https://travis-ci.org/0x13a/geodistance-php)
 
-simple & minimal geodistance php library to calculate distance among two points (latitude, longitude) using [Harvesine formula](https://www.wikiwand.com/en/Haversine_formula)
+simple & minimal geodistance php library to calculate geo distance between two points (latitude, longitude) using [Harvesine formula](https://www.wikiwand.com/en/Haversine_formula)
 
 ## Installation
 
@@ -26,3 +26,4 @@ echo \geodistance\miles($new_york, $los_angeles, $decimal_precision); // 2445.56
 echo \geodistance\yardes($new_york, $los_angeles); // 4304181
 
 ```
+ here [https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b](https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b) there is a miserable attempt for the same library using more functional php approach
