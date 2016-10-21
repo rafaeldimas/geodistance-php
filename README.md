@@ -26,4 +26,7 @@ echo \geodistance\miles($new_york, $los_angeles, $decimal_precision); // 2445.56
 echo \geodistance\yardes($new_york, $los_angeles); // 4304181
 
 ```
- here [https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b](https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b) there is a miserable attempt for the same library using more functional php approach
+
+## Extra
+
+you can find the same php implementation [using functional approach](https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b)
