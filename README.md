@@ -4,6 +4,7 @@
 [![Latest Stable Version](https://poser.pugx.org/0x13a/geodistance-php/v/stable)](https://packagist.org/packages/0x13a/geodistance-php)
 [![Total Downloads](https://poser.pugx.org/0x13a/geodistance-php/downloads)](https://packagist.org/packages/0x13a/geodistance-php)
 [![License](https://poser.pugx.org/0x13a/geodistance-php/license)](https://packagist.org/packages/0x13a/geodistance-php)
+[![composer.lock](https://poser.pugx.org/0x13a/geodistance-php/composerlock)](https://packagist.org/packages/0x13a/geodistance-php)
 
 simple & minimal geodistance php library to calculate geo distance between two points (latitude, longitude) using [Harvesine formula](https://www.wikiwand.com/en/Haversine_formula)
 
@@ -33,3 +34,7 @@ echo \geodistance\yardes($new_york, $los_angeles); // 4304181
 ## Extra
 
 you can find the same php implementation here [using functional approach](https://gist.github.com/0x13a/4a6578ea87524faf9b2b0ed69501e36b)
+
+## License
+
+Geodistance PHP is licensed under the MIT license. See [License File](LICENSE) for more information.
