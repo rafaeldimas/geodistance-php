@@ -1,6 +1,9 @@
 # Geodistance
 
 [![Build Status](https://travis-ci.org/0x13a/geodistance-php.svg?branch=master)](https://travis-ci.org/0x13a/geodistance-php)
+[![Latest Stable Version](https://poser.pugx.org/0x13a/geodistance-php/v/stable)](https://packagist.org/packages/0x13a/geodistance-php)
+[![Total Downloads](https://poser.pugx.org/0x13a/geodistance-php/downloads)](https://packagist.org/packages/0x13a/geodistance-php)
+[![License](https://poser.pugx.org/0x13a/geodistance-php/license)](https://packagist.org/packages/0x13a/geodistance-php)
 
 simple & minimal geodistance php library to calculate geo distance between two points (latitude, longitude) using [Harvesine formula](https://www.wikiwand.com/en/Haversine_formula)
 
