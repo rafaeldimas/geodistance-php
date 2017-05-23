@@ -2,7 +2,7 @@
 
 namespace GeodistanceTest;
 
-use Geodistance\Location;
+use \Geodistance\Location;
 
 class GeodistanceTest extends \PHPUnit_Framework_TestCase
 {
