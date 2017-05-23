@@ -1,8 +1,8 @@
 <?php
 
-namespace geodistance;
+namespace Geodistance;
 
-class location
+class Location
 {
     // We'll need another constant here,
     // when we'll start using GPS on Mars
@@ -91,4 +91,3 @@ function feet(location $x, location $y, $precision = 0)
 {
     return round(meters($x, $y) * 3.28083, $precision);
 }
-
