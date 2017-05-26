@@ -82,7 +82,7 @@ function centimeters(location $x, location $y, $precision = 0)
     return round(meters($x, $y) * 100, $precision);
 }
 
-function yardes(location $x, location $y, $precision = 0)
+function yards(location $x, location $y, $precision = 0)
 {
     return round(meters($x, $y) * 1.09361, $precision);
 }

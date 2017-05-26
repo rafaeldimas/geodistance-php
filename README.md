@@ -27,7 +27,7 @@ $decimal_precision = 3;
 
 echo \Geodistance\kilometers($new_york, $los_angeles); // 3936
 echo \Geodistance\miles($new_york, $los_angeles, $decimal_precision); // 2445.564
-echo \Geodistance\yardes($new_york, $los_angeles); // 4304181
+echo \Geodistance\yards($new_york, $los_angeles); // 4304181
 
 ```
 
